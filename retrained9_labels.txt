@@ -1,0 +1,200 @@
+001 black footed albatross
+002 laysan albatross
+003 sooty albatross
+004 groove billed ani
+006 least auklet
+007 parakeet auklet
+008 rhinoceros auklet
+009 brewer blackbird
+010 red winged blackbird
+011 rusty blackbird
+012 yellow headed blackbird
+013 bobolink
+014 indigo bunting
+015 lazuli bunting
+016 painted bunting
+017 cardinal
+018 spotted catbird
+020 yellow breasted chat
+021 eastern towhee
+022 chuck will widow
+023 brandt cormorant
+024 red faced cormorant
+025 pelagic cormorant
+026 bronzed cowbird
+027 shiny cowbird
+028 brown creeper
+029 american crow
+030 fish crow
+031 black billed cuckoo
+032 mangrove cuckoo
+033 yellow billed cuckoo
+035 purple finch
+036 northern flicker
+037 acadian flycatcher
+038 great crested flycatcher
+039 least flycatcher
+040 olive sided flycatcher
+041 scissor tailed flycatcher
+042 vermilion flycatcher
+043 yellow bellied flycatcher
+044 frigatebird
+045 northern fulmar
+046 gadwall
+047 american goldfinch
+048 european goldfinch
+049 boat tailed grackle
+050 eared grebe
+051 horned grebe
+052 pied billed grebe
+053 western grebe
+054 blue grosbeak
+055 evening grosbeak
+056 pine grosbeak
+057 rose breasted grosbeak
+058 pigeon guillemot
+059 california gull
+060 glaucous winged gull
+061 heermann gull
+062 herring gull
+063 ivory gull
+064 ring billed gull
+065 slaty backed gull
+066 western gull
+067 anna hummingbird
+068 ruby throated hummingbird
+069 rufous hummingbird
+070 green violetear
+071 long tailed jaeger
+072 pomarine jaeger
+073 blue jay
+074 florida jay
+075 green jay
+076 dark eyed junco
+077 tropical kingbird
+078 gray kingbird
+079 belted kingfisher
+080 green kingfisher
+081 pied kingfisher
+082 ringed kingfisher
+083 white breasted kingfisher
+084 red legged kittiwake
+085 horned lark
+086 pacific loon
+087 mallard
+088 western meadowlark
+089 hooded merganser
+090 red breasted merganser
+091 mockingbird
+092 nighthawk
+093 clark nutcracker
+094 white breasted nuthatch
+095 baltimore oriole
+096 hooded oriole
+097 orchard oriole
+098 scott oriole
+099 ovenbird
+100 brown pelican
+101 white pelican
+102 western wood pewee
+103 sayornis
+104 american pipit
+105 whip poor will
+106 horned puffin
+107 common raven
+108 white necked raven
+109 american redstart
+110 geococcyx
+111 loggerhead shrike
+112 great grey shrike
+113 baird sparrow
+114 black throated sparrow
+115 brewer sparrow
+116 chipping sparrow
+117 clay colored sparrow
+118 house sparrow
+119 field sparrow
+120 fox sparrow
+121 grasshopper sparrow
+122 harris sparrow
+123 henslow sparrow
+124 le conte sparrow
+125 lincoln sparrow
+126 nelson sharp tailed sparrow
+127 savannah sparrow
+128 seaside sparrow
+129 song sparrow
+130 tree sparrow
+131 vesper sparrow
+132 white crowned sparrow
+133 white throated sparrow
+134 cape glossy starling
+135 bank swallow
+136 barn swallow
+137 cliff swallow
+138 tree swallow
+139 scarlet tanager
+140 summer tanager
+141 artic tern
+142 black tern
+143 caspian tern
+144 common tern
+145 elegant tern
+146 forsters tern
+147 least tern
+148 green tailed towhee
+149 brown thrasher
+150 sage thrasher
+151 black capped vireo
+152 blue headed vireo
+153 philadelphia vireo
+154 red eyed vireo
+155 warbling vireo
+156 white eyed vireo
+157 yellow throated vireo
+158 bay breasted warbler
+159 black and white warbler
+160 black throated blue warbler
+161 blue winged warbler
+162 canada warbler
+163 cape may warbler
+164 cerulean warbler
+165 chestnut sided warbler
+166 golden winged warbler
+167 hooded warbler
+168 kentucky warbler
+169 magnolia warbler
+170 mourning warbler
+171 myrtle warbler
+172 nashville warbler
+173 orange crowned warbler
+174 palm warbler
+175 pine warbler
+176 prairie warbler
+177 prothonotary warbler
+178 swainson warbler
+179 tennessee warbler
+180 wilson warbler
+181 worm eating warbler
+182 yellow warbler
+183 northern waterthrush
+184 louisiana waterthrush
+185 bohemian waxwing
+186 cedar waxwing
+187 american three toed woodpecker
+188 pileated woodpecker
+189 red bellied woodpecker
+190 red cockaded woodpecker
+191 red headed woodpecker
+192 downy woodpecker
+193 bewick wren
+194 cactus wren
+195 carolina wren
+196 house wren
+197 marsh wren
+198 rock wren
+199 winter wren
+200 common yellowthroat
+019 gray catbird
+005 crested auklet
+034 gray crowned rosy finch
